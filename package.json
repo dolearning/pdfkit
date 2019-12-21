@@ -34,7 +34,7 @@
     "blob-stream": "^0.1.2"
   },
   "dependencies": {
-    "png-js": "git@github.com:dolearning/png.js.git#master",
+    "png-js": "github:dolearning/png.js#master",
     "linebreak": "~0.1.0"
   },
   "scripts": {
